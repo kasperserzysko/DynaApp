@@ -2,10 +2,11 @@
 
 
 ## How To Start
-  Clone this reposity, then:<br>
-    - run app trough the IntelliJ<br>
-    - or java -jar target/dynaApp-0.0.1-SNAPSHOT.jar while in the source folder
-
+  Clone this reposity, then try one of these:<br>  
+    - java -jar target/dynaApp-0.0.1-SNAPSHOT.jar while in the source folder<br>
+    - mvn spring-boot:run (If You have Maven installed)<br>
+    - run app trough the IntelliJ
+    
 ## Swagger Documentation:
  - http://localhost:8080/swagger-ui/index.html#/
  
